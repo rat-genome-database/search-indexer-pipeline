@@ -16,10 +16,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by IntelliJ IDEA.<br/>
- * User: jdepons<br/>
- * Date: May 27, 2008<br/>
- * Time: 3:58:57 PM<br/>
+ * @author jdepons
+ * @since May 27, 2008
  * Indexes rgd data into rgd_index table.  Each method runs independent of the others
  */
 public class Spider {
