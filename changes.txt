@@ -1,3 +1,6 @@
+Feb 14, 2018  ver. 1.2.15
+  updated dependencies
+
 Sep 24, 2018  ver. 1.2.14
   moved from subversion to github
 

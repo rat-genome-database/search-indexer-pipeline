@@ -2,7 +2,7 @@
 
 <beans>
     <bean id="manager" class="edu.mcw.rgd.search.indexer.Manager">
-        <property name="version" value="--SEARCH INDEXER v. 1.2.14 build Sep 24, 2018--" />
+        <property name="version" value="--SEARCH INDEXER v. 1.2.15 build Feb 14, 2019--" />
         <property name="spider" ref="spider" />
     </bean>
 
